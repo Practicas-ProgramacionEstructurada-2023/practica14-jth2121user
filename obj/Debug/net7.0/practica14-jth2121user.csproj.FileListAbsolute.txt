@@ -1,0 +1,14 @@
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\obj\Debug\net7.0\practica14-jth2121user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\obj\Debug\net7.0\practica14-jth2121user.AssemblyInfoInputs.cache
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\obj\Debug\net7.0\practica14-jth2121user.AssemblyInfo.cs
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\obj\Debug\net7.0\practica14-jth2121user.csproj.CoreCompileInputs.cache
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\bin\Debug\net7.0\practica14-jth2121user.exe
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\bin\Debug\net7.0\practica14-jth2121user.deps.json
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\bin\Debug\net7.0\practica14-jth2121user.runtimeconfig.json
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\bin\Debug\net7.0\practica14-jth2121user.dll
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\bin\Debug\net7.0\practica14-jth2121user.pdb
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\obj\Debug\net7.0\practica14-jth2121user.dll
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\obj\Debug\net7.0\refint\practica14-jth2121user.dll
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\obj\Debug\net7.0\practica14-jth2121user.pdb
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\obj\Debug\net7.0\practica14-jth2121user.genruntimeconfig.cache
+C:\Users\Judith Del Cid\Desktop\Repositorio_practicas\practica14-jth2121user\obj\Debug\net7.0\ref\practica14-jth2121user.dll
